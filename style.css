@@ -7,7 +7,7 @@ body {
 	color:#17202A;
 	margin-left: 100px;
 	margin-right: 100px;	
-	background-image: url("bullseye.png")	
+	background-image: url("CSS/CSSIMG/bullseye.png")	
 }
 
 
@@ -43,7 +43,7 @@ li {
 	margin: 0;
 	padding: 10px  30px 20px;
 	list-style: none;
-	background-image: url("bulletpoint.png");
+	background-image: url("CSS/CSSIMG/bulletpoint.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 10px;
