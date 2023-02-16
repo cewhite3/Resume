@@ -1,0 +1,89 @@
+/* CSS for Resume*/
+
+body {
+	background-color: #D4E6F1;
+	font-family: 'Bitter', serif;
+	font-size: 20px;
+	color:#17202A;
+	margin-left: 100px;
+	margin-right: 100px;	
+	background-image: url("bullseye.png")	
+}
+
+
+h1,h2,h3,h4 {
+	font-family: 'Staatliches', cursive;
+	color: #34495E;
+	}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: -45px;
+	text-decoration: underline;
+}
+
+h2{
+	margin-bottom: -15px;
+	text-decoration: underline;
+}
+
+h4{
+	font-size: 25px;
+	text-align: center;
+	opacity: .7;
+}
+
+img {
+  border-radius: 100%;
+  border: 5px solid #FDFEFE;
+}
+
+li {
+	margin: 0;
+	padding: 10px  30px 20px;
+	list-style: none;
+	background-image: url("bulletpoint.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+a:link{
+	color: hotpink;
+}
+
+a:visited{
+	color: teal;
+}
+
+a:hover{
+	color: lightcoral;
+}
+
+a:focus{
+	background-color: ivory;
+}
+
+a:active{
+	color: darkred;
+}
+
+P::First-Line {
+	font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
